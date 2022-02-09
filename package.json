@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Portfolio Created With Node.JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TennCreekBridges/portfolio-generator.git"
+  },
+  "author": "bridgett valet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TennCreekBridges/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/TennCreekBridges/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
